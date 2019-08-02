@@ -7,5 +7,6 @@ Commandes index :
 
 Commandes spécifiques de 🛠 Modérations (5) : 
 
-`!sup {Nombre De Message à supprimer} : Pour supprimer des messages (entre 1 et 100 ) 
+`!sup {Nombre De Message à supprimer}` : Pour supprimer des messages (entre 1 et 100 ) 
+
 `!ban` : 
