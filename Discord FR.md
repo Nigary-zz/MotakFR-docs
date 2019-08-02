@@ -4,3 +4,8 @@ Toutes les commandes pour Discord FR :
 Commandes index : 
 
 ``!aide`` : vous donne l'ensemble des commandes disponibles !
+
+Commandes spécifiques de 🛠 Modérations (5) : 
+
+`!sup {Nombre De Message à supprimer} : Pour supprimer des messages (entre 1 et 100 ) 
+`!ban` : 
