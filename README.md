@@ -3,4 +3,4 @@ Toutes les commandes pour Discord FR :
 
 Commandes index : 
 
-`!aide`
+``!aide`` : vous donne l'ensemble des commandes disponibles !
