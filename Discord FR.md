@@ -9,4 +9,4 @@ Commandes spécifiques de 🛠 Modérations (5) :
 
 `!sup {Nombre De Message à supprimer}` : Pour supprimer des messages (entre 1 et 100 ) 
 
-`!ban` : 
+`!ban {utilisateur sur le serveur} {Raison du ban}` : Bannir un membre (Permissions Nécéssaires : `MANAGE_MEMBERS`)
