@@ -10,3 +10,5 @@ Commandes spécifiques de 🛠 Modérations (5) :
 `!sup {Nombre De Message à Supprimer}` : Pour supprimer des messages (entre 1 et 100 , Permissions Nécéssaires : `MANAGE_MESSAGES`)
 
 `!ban {@Utilisateur} {Raison du ban}` : Bannir un membre (Permissions Nécéssaires : `MANAGE_MEMBERS`)
+
+Comming soon...
