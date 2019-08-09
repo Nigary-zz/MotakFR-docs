@@ -11,4 +11,10 @@ Commandes spécifiques de 🛠 Modérations (5) :
 
 `!ban {@Utilisateur} {Raison du ban}` : Bannir un membre (Permissions Nécéssaires : `MANAGE_MEMBERS`)
 
+`!kick {@Utilisateur} {Raison du kick}` : Expulser un membre (Permissions Nécéssaires : `MANAGE_MEMBERS`)
+
+`!tempmute {@Utilisateur} {Durée en millisecondes}` : Muter temporairement un membre du serveur (1 seconde = 1000 millisecondes, Permissions Nécéssaires : `MANAGE_MEMBERS`)
+
+`!warn {@Utilisateur} {Raison de l’avertissement}` : Avertissement envers un membre du serveur (Permissions Nécéssaires : `MANAGE_MEMBERS`)
+
 Comming soon...
