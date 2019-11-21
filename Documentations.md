@@ -5,7 +5,7 @@ Commandes index :
 
 ``!aide`` : vous donne l'ensemble des commandes disponibles !
 
-Commandes spécifiques de 🛠 Modérations (5) : 
+Commandes spécifiques de 🛠 Modérations (7) : 
 
 `!sup {Nombre De Message à Supprimer}` : Pour supprimer des messages (entre 1 et 100 , Permissions Nécéssaires : `MANAGE_MESSAGES`)
 
@@ -16,5 +16,33 @@ Commandes spécifiques de 🛠 Modérations (5) :
 `!tempmute {@Utilisateur} {Durée en millisecondes}` : Muter temporairement un membre du serveur (1 seconde = 1000 millisecondes, Permissions Nécéssaires : `MANAGE_MEMBERS`)
 
 `!warn {@Utilisateur} {Raison de l’avertissement}` : Avertissement envers un membre du serveur (Permissions Nécéssaires : `MANAGE_MEMBERS`)
+
+`!new` : Ouvrir un salon ticket avec le staff du serveur (Rôles Nécéssaires : `Support Staff`)
+
+`!close` : Fermer le salon ticket (commandes à envoyer dans le salon concerné)
+
+Commandes  💡 Utilitaires (18) : 
+
+`!botinfo` :  Toutes les information sur le bot et son support
+
+`!users` : Nombre d'utilisateurs sur le serveur
+
+`!supportbot` : commande pour reporter un problème au développeur du bot
+
+`!invitestats` :  commande avec toutes les invitation du serveur
+
+`!idiscord` : Votre identifiant discord
+
+`!latence` : Statistiques de connexion du bot à son serveur et au serveur de discord
+
+`!sondage` : ?
+
+`!sondage2` : commande pour créer un sondage avec comme réponse 1 ou 2  
+
+`!sondage4` : commande pour créer un sondage avec comme réponse 1, 2, 3 ou 4
+
+
+
+
 
 Comming soon...
