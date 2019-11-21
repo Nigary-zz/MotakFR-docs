@@ -35,11 +35,11 @@ Commandes  💡 Utilitaires (18) :
 
 `!latence` : Statistiques de connexion du bot à son serveur et au serveur de discord
 
-`!sondage` : ?
+`!sondage` : commande pour créer un sondage avec comme réponse ✅ ou ❌
 
-`!sondage2` : commande pour créer un sondage avec comme réponse 1 ou 2  
+`!sondage2` : commande pour créer un sondage avec comme réponse 1️⃣ ou 2️⃣ 
 
-`!sondage4` : commande pour créer un sondage avec comme réponse 1, 2, 3 ou 4
+`!sondage4` : commande pour créer un sondage avec comme réponse 1️⃣, 2️⃣, 3️⃣ ou 4️⃣ 
 
 
 
