@@ -67,7 +67,7 @@ Commandes :game_die: Mini-jeux (4) (Salon  Nécéssaires : `mini-jeux`) :
 
 `!8ball` : mini-jeux du 8ball écrivez une phrase et le bot répondra de façon aléatoire
 
-Commandes d'images :park: (5) : 
+Commandes d'images 🖼 (5) : 
 
 `!cat` : commande qui vous affiche un chat très migon 
 
