@@ -1,5 +1,5 @@
 Toutes les commandes pour [Discord FR](https://discordapp.com/oauth2/authorize?client_id=610555516334112805&scope=bot&permissions=2146958847) : 
-![test](https://zupimages.net/viewer.php?id=19/49/wy4j.png)
+![test](https://zupimages.net/up/19/49/wy4j.png)
 
 Commandes index : 
 
